@@ -1,3 +1,8 @@
+This repo contains notebooks with queries, examples and code snippets as part of my research on data model-driven systems integration.
+
+fhir-profiles-sparql:
+- FHIR profiles mapped into the ontology domain are analyzed using generic SPARQL queries to produce compatibility reports
+
 ***SETUP***
 Stardog Setup
 - Stardog docs: https://docs.stardog.com/
