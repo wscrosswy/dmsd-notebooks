@@ -1,9 +1,9 @@
+### Overview
 This repo contains notebooks with queries, examples and code snippets as part of my research on data model-driven systems integration.
 
-fhir-profiles-sparql:
-- FHIR profiles mapped into the ontology domain are analyzed using generic SPARQL queries to produce compatibility reports
+**fhir-profiles-sparql**: FHIR profiles mapped into the ontology domain are analyzed using generic SPARQL queries to produce compatibility reports
 
-***SETUP***
+### Setup
 Stardog Setup
 - Stardog docs: https://docs.stardog.com/
 (TODO)
@@ -16,7 +16,7 @@ Jupyter Notebook Setup
 	- sparql-kernel documentation: https://github.com/paulovn/sparql-kernel
 
 	
-***RUNNING***
+### Running
 Stardog
 - Run stardog server: "<stardog bin dir>/stardog-admin.bat server start &"
 - (not necessary) stardog studio: access https://stardog.studio/#/ in browser and connect to local stardog server
